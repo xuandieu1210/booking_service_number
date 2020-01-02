@@ -162,6 +162,8 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
+        Reliese\Coders\CodersServiceProvider::class,
+
         /*
          * Package Service Providers...
          */
